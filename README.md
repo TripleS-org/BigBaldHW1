@@ -1,6 +1,6 @@
 # BigBaldHW1
 Homework repository for CSC510 "Software Engineering"
 
-![Python](https://forthebadge.com/images/badges/made-with-python.svg)
+![Python](https://img.shields.io/badge/Made_With-Python-blue)
 ![License - MIT](https://img.shields.io/badge/license-MIT-blue)
-![Platform-Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Platform-Windows](https://img.shields.io/badge/Platform-Windows-blue)
