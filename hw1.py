@@ -6,6 +6,5 @@ def reverse_string(s):
 
 input_str = "hello"
 result = reverse_string(input_str)
-
 print("Original string:", input_str)
-print("Reversed string:", result)
+print("Reversed string:", result) 
