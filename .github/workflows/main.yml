@@ -20,4 +20,4 @@ jobs:
         run: pip install pytest
 
       - name: Test with pytest
-        run: pytest my_test.py --continue-on-collection-errors || true
+        run: pytest my_test.py
