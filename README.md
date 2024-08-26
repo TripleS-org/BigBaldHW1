@@ -5,4 +5,4 @@ Homework repository for CSC510 "Software Engineering"
 ![License - MIT](https://img.shields.io/badge/License-MIT-blue)
 ![Platform-Windows](https://img.shields.io/badge/Platform-Windows-blue)
 
-[![Test Cases](https://github.com/TripleS-org/BigBaldHW1/actions/workflows/main.yml/badge.svg)](https://github.com/TripleS-org/BigBaldHW1/actions/workflows/main.yml)
+![Test Cases](https://github.com/TripleS-org/BigBaldHW1/actions/workflows/main.yml/badge.svg)
